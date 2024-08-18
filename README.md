@@ -25,3 +25,15 @@ This script automates the process of importing multiple MP4 files into Adobe Pre
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/MattGeiger/Adobe-Scripts.git
+2.	Open Adobe Premiere Pro and load your project.
+
+3.	Run the Script:
+- Use the ExtendScript Toolkit with Visual Studio Code.
+- [Video Tutorial fo using ExtendScript and VS Code](https://youtu.be/CnYDiWxShR4)
+- Navigate to the script in the Premiere-Pro/ folder.
+- Follow the prompts in the script to select your MP4 files and automate the import process.
+
+License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
+
