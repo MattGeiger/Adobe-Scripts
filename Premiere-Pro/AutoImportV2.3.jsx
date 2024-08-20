@@ -28,7 +28,7 @@
  * - The sequence created is basic and may need further adjustment depending on your specific 
  *   project requirements.
  * 
- * Author: Matt Geiger (https://github.com/MattGeiger/) with debugging help from ChatGPT4o and Claude 3.5 Sonet
+ * Author: Matt Geiger (https://github.com/MattGeiger/) with debugging help from ChatGPT4o and Claude 3.5 Sonnet
  * Date: 2024-August-17
  * MIT License (https://opensource.org/licenses/MIT)
  */
