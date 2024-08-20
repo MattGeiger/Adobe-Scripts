@@ -9,7 +9,7 @@
  * - Run the script from the ExtendScript Toolkit or Adobe's Scripting environment.
  * - Follow the on-screen prompts to select a folder containing your video files.
  * 
- * Author: Matt Geiger (https://github.com/MattGeiger/)
+* Author: Matt Geiger (https://github.com/MattGeiger/) with debugging help from ChatGPT4o and Claude 3.5 Sonnet
  * Date: 2024-August-19
  * MIT License (https://opensource.org/licenses/MIT)
  */
